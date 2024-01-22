@@ -1,0 +1,160 @@
+.hide{
+	display: none;
+}
+
+.brand-link{
+	background-color: #fff; 
+}
+
+.login-logo img{
+	width: 60%;
+}
+
+/* .swal-button {
+	background-color: #17bab5;
+} */
+.swal-button.swal-button-.-confirm{
+	background-color: #91dbd9;
+}
+.swal-button:not([disabled]):hover {
+    background-color: #17bab5;
+}
+
+.faa-ring.animated,
+.faa-ring.animated-hover:hover,
+.faa-parent.animated-hover:hover>.faa-ring {
+    -webkit-animation: ring 2s ease infinite;
+    animation: ring 2s ease infinite;
+    -ms-transform-origin-x: 50%;
+    -ms-transform-origin-y: 0px;
+    -ms-transform-origin-z: initial;
+}
+
+@-webkit-keyframes ring {
+    0% {
+        -webkit-transform: rotate(-15deg);
+        transform: rotate(-15deg)
+    }
+
+    2% {
+        -webkit-transform: rotate(15deg);
+        transform: rotate(15deg)
+    }
+
+    4% {
+        -webkit-transform: rotate(-18deg);
+        transform: rotate(-18deg)
+    }
+
+    6% {
+        -webkit-transform: rotate(18deg);
+        transform: rotate(18deg)
+    }
+
+    8% {
+        -webkit-transform: rotate(-22deg);
+        transform: rotate(-22deg)
+    }
+
+    10% {
+        -webkit-transform: rotate(22deg);
+        transform: rotate(22deg)
+    }
+
+    12% {
+        -webkit-transform: rotate(-18deg);
+        transform: rotate(-18deg)
+    }
+
+    14% {
+        -webkit-transform: rotate(18deg);
+        transform: rotate(18deg)
+    }
+
+    16% {
+        -webkit-transform: rotate(-12deg);
+        transform: rotate(-12deg)
+    }
+
+    18% {
+        -webkit-transform: rotate(12deg);
+        transform: rotate(12deg)
+    }
+
+    20% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg)
+    }
+}
+
+@keyframes ring {
+    0% {
+        -webkit-transform: rotate(-15deg);
+        -ms-transform: rotate(-15deg);
+        transform: rotate(-15deg)
+    }
+
+    2% {
+        -webkit-transform: rotate(15deg);
+        -ms-transform: rotate(15deg);
+        transform: rotate(15deg)
+    }
+
+    4% {
+        -webkit-transform: rotate(-18deg);
+        -ms-transform: rotate(-18deg);
+        transform: rotate(-18deg)
+    }
+
+    6% {
+        -webkit-transform: rotate(18deg);
+        -ms-transform: rotate(18deg);
+        transform: rotate(18deg)
+    }
+
+    8% {
+        -webkit-transform: rotate(-22deg);
+        -ms-transform: rotate(-22deg);
+        transform: rotate(-22deg)
+    }
+
+    10% {
+        -webkit-transform: rotate(22deg);
+        -ms-transform: rotate(22deg);
+        transform: rotate(22deg)
+    }
+
+    12% {
+        -webkit-transform: rotate(-18deg);
+        -ms-transform: rotate(-18deg);
+        transform: rotate(-18deg)
+    }
+
+    14% {
+        -webkit-transform: rotate(18deg);
+        -ms-transform: rotate(18deg);
+        transform: rotate(18deg)
+    }
+
+    16% {
+        -webkit-transform: rotate(-12deg);
+        -ms-transform: rotate(-12deg);
+        transform: rotate(-12deg)
+    }
+
+    18% {
+        -webkit-transform: rotate(12deg);
+        -ms-transform: rotate(12deg);
+        transform: rotate(12deg)
+    }
+
+    20% {
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg)
+    }
+}
+
+a.new-users-list {color: #fff;}
+a.new-users-list:hover {color: #fff;}
+li.new-users-list:hover {background-color: #808080; color:#fff;}

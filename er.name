@@ -1,0 +1,285 @@
+[33mcommit 5fb52e80a6b415703251072ff8317236b39ce518[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Thu Dec 2 20:07:08 2021 +0530
+
+    changes
+
+[33mcommit 99f84372ec7a2a6953b245026156529dae957af6[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Wed Dec 1 18:49:01 2021 +0530
+
+    changes
+
+[33mcommit a5fac65e1edac047bacd9cf10bda757533ae2f40[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Wed Dec 1 13:46:34 2021 +0530
+
+    Revert "changes"
+    
+    This reverts commit 6c819a8c74f7f19c7ee5327b5326f449171d564d.
+
+[33mcommit 6c819a8c74f7f19c7ee5327b5326f449171d564d[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Wed Dec 1 13:46:03 2021 +0530
+
+    changes
+
+[33mcommit 77fba376943553091c86448ea2fa621f868de2c5[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Wed Dec 1 12:02:41 2021 +0530
+
+    changes
+
+[33mcommit ba25ed52e90b07a941f838b4cde75e156659d80f[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Wed Dec 1 11:43:30 2021 +0530
+
+    changes
+
+[33mcommit 68acfa4dfbc0d0b05dee5b2667c3e68f61e5de34[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Wed Dec 1 11:26:05 2021 +0530
+
+    changes
+
+[33mcommit af3ebf2afa57a29ff805ec7d0bcc5a69e9da1594[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Tue Nov 30 18:58:43 2021 +0530
+
+    changes
+
+[33mcommit c900e31d0eee641d44d4f676b20e288bc020c38e[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Tue Nov 30 16:57:17 2021 +0530
+
+    changes
+
+[33mcommit 0f7a32a918b73417bbdf879cf77f925527b2273d[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Tue Nov 30 15:35:51 2021 +0530
+
+    changes
+
+[33mcommit 240fdbc9804324ff4971a6bc05c4c674e2e6f960[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Tue Nov 30 09:48:58 2021 +0530
+
+    changes
+
+[33mcommit 167af1a33c0c61920d5fa94f35a6636273f19136[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Mon Nov 29 18:20:42 2021 +0530
+
+    changes
+
+[33mcommit 67db5f3b5732df3a20cfbf0f8fb0cbde1d7f39b2[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Mon Nov 29 18:06:22 2021 +0530
+
+    changes
+
+[33mcommit b771eb1c4b2570cf4a7a935abfbe7aaf866ed9cd[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Sat Nov 27 19:14:43 2021 +0530
+
+    changes push notification
+
+[33mcommit 79c107308320d5c0626588e91a66b31aba0d0404[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Fri Nov 26 19:21:08 2021 +0530
+
+    changes
+
+[33mcommit 743a2f2b68be260bbd442863aa713978c18ff3c9[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Thu Nov 25 20:13:12 2021 +0530
+
+    changes
+
+[33mcommit 2aece6f6d7351e35d9062d6a3e7c11a96059c3ff[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Thu Nov 25 12:03:43 2021 +0530
+
+    bugs fix doone.
+
+[33mcommit 620b6d9fffff11f51451b031ca231568b03cf61c[m
+Author: Rushita-technomads <rushita.talaviya@technomads.in>
+Date:   Mon Nov 22 11:30:22 2021 +0530
+
+    resolve api issue of friend listing
+
+[33mcommit cc37e631b81402a4d2c45f2cf686a8ccb44b560b[m
+Author: Rushita-technomads <rushita.talaviya@technomads.in>
+Date:   Thu Nov 18 10:47:09 2021 +0530
+
+    change name in migration
+
+[33mcommit a5e46bfa2b703eb581a093c5f3a4bc29e4c31198[m
+Author: Rushita-technomads <rushita.talaviya@technomads.in>
+Date:   Wed Nov 17 17:47:51 2021 +0530
+
+    friend module
+
+[33mcommit 91e13e42d9ef633b5a941e6e5d5695cd1c2d12dc[m
+Author: Rushita-technomads <rushita.talaviya@technomads.in>
+Date:   Tue Nov 16 17:48:49 2021 +0530
+
+    qr-code generated
+
+[33mcommit a788d6cfb45f3e7b47829a7d933891f9ec7fb6a3[m
+Author: Rushita-technomads <rushita.talaviya@technomads.in>
+Date:   Mon Nov 15 17:59:10 2021 +0530
+
+    resolve authentication module error
+
+[33mcommit 74554fcd62feebee92fa71891c1f280a3c47fa4b[m
+Author: Rushita-technomads <rushita.talaviya@technomads.in>
+Date:   Sat Nov 13 16:52:58 2021 +0530
+
+    get profile info & generate qr
+
+[33mcommit 6b62f62cb404755da1428d30ac0ec9094dbc9e46[m
+Author: Rushita-technomads <rushita.talaviya@technomads.in>
+Date:   Sat Nov 13 10:24:12 2021 +0530
+
+    resolve conflict
+
+[33mcommit e5b5272e43f1b21b056e1abbc355cf21f7ac0e2f[m
+Author: Rushita-technomads <rushita.talavita@technomads.in>
+Date:   Fri Nov 12 17:49:58 2021 +0530
+
+    added diary and calendar module
+
+[33mcommit e1d4d658974f6fc067f4e305d20a5d1b8efdcb31[m
+Author: Rushita-technomads <rushita.talavita@technomads.in>
+Date:   Tue Nov 2 16:30:37 2021 +0530
+
+    post module
+
+[33mcommit a5aaf8b35617ea9b4f9481a02803846d599eee8b[m
+Author: Rushita-technomads <rushita.talavita@technomads.in>
+Date:   Mon Nov 1 18:01:44 2021 +0530
+
+    start post module
+
+[33mcommit f998285fecfc634037f702b0961a35a47ab0e17d[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Sat Oct 30 18:32:14 2021 +0530
+
+    changes
+
+[33mcommit d04d1ef9ff3b7cf64a0330dd2ddce6be0c4b4756[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Sat Oct 30 18:30:06 2021 +0530
+
+    api and admin, church list no bugs
+
+[33mcommit ca20c8abc7616843d1e9af2496f3fbf85d1a0948[m
+Merge: 5959a7b ffd967f
+Author: Rushita-technomads <rushita.talavita@technomads.in>
+Date:   Sat Oct 30 17:38:36 2021 +0530
+
+    resolve conflicts
+
+[33mcommit 5959a7bb153fc9684e4af950ae2baa79d41a52a5[m
+Author: Rushita-technomads <rushita.talavita@technomads.in>
+Date:   Sat Oct 30 17:35:49 2021 +0530
+
+    initial commit by rushita
+
+[33mcommit ffd967f80b22272f23cbc870d3d6272cb6bf22cf[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Sat Oct 30 17:34:50 2021 +0530
+
+    changes
+
+[33mcommit 3ea9e48db9a750b4308433ea27bc092430e4037f[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Fri Oct 29 20:40:25 2021 +0530
+
+    changes
+
+[33mcommit 58b7e82dec10102dcee36540644f99d39456cad4[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Thu Oct 28 21:40:52 2021 +0530
+
+    changes
+
+[33mcommit 8928991958ce24256ed2050226b82b78f139197c[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Thu Oct 28 10:33:31 2021 +0530
+
+    changes
+
+[33mcommit 2dd1b8e09a0a9fa01984ffc6d475e118ee7adb23[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Wed Oct 27 21:45:01 2021 +0530
+
+    events crud and calendor show done.
+
+[33mcommit 2fc71e5c8e49bcc39659ea95d86c408104444b1e[m
+Merge: 285225e 432f97a
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Wed Oct 27 19:29:15 2021 +0530
+
+    Merge branch 'main' of https://github.com/technomads-in/bibleapp_backend into main
+
+[33mcommit 285225e4da715f705ee96e7c35ca681bae26f0ee[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Wed Oct 27 19:28:19 2021 +0530
+
+    changes
+
+[33mcommit 432f97a2627389eada0feafc2a6e4f792f7bb805[m
+Author: hkgtechnomads <nainesh.tank@technomads.in>
+Date:   Wed Oct 27 19:22:00 2021 +0530
+
+    create forgot password api
+
+[33mcommit f5d906d22d550a8e55e195f48833531eeb7aa407[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Tue Oct 26 21:20:27 2021 +0530
+
+    changes
+
+[33mcommit 5b41db4d14be8d985120203d0dd25dcced9d2a7c[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Tue Oct 26 21:09:58 2021 +0530
+
+    api changes
+
+[33mcommit d793cc7e1c4be20eab608604d4f5f6c8224623cf[m
+Author: hkgtechnomads <nainesh.tank@technomads.in>
+Date:   Tue Oct 26 18:30:48 2021 +0530
+
+    otp changes
+
+[33mcommit 724a17e72f6e5f9043192c7d8b9e1829befdec22[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Tue Oct 26 18:02:31 2021 +0530
+
+    changes
+
+[33mcommit d6e6143f54ab0f720ce2e3cdfdd861984b866834[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Tue Oct 26 17:35:05 2021 +0530
+
+    changes
+
+[33mcommit a59ecbaf40206b8031ff3d567648357fa6a9998d[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Mon Oct 25 20:59:16 2021 +0530
+
+    church login done.
+
+[33mcommit 9007bdfbd348151415b4a07d90518660f6d273c7[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Sat Oct 23 13:39:18 2021 +0530
+
+    new church details add done
+
+[33mcommit 896587c446e8be90aa2e1ad517c33f6394b26996[m
+Author: Shekhar <shekhar.rudra@technomads.in>
+Date:   Fri Oct 22 20:19:47 2021 +0530
+
+    first commit
